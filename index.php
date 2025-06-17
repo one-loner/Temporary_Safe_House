@@ -123,7 +123,7 @@ $posts = file_get_contents('posts.html');
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Standalone blog</title>
+    <title>Temporary Safe House</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
